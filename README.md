@@ -2,6 +2,8 @@
 
 Automated email notifications for severe Edge Function logs using AWS SES and Supabase Management API.
 
+> disclaimer: this project is made by kimi-k2.5
+
 ## How It Works
 
 ```
